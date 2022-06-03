@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zhiyu Zhang. Or you can call me "Harden"!
+- 👋 Hi, I’m Zhiyu Zhang. Or you can call me "Harden"! Nice to virtually meet you!
 - 👀 I’m interested in Application of Data Analytics and Machine Learning. Experienced in Python, Java, SQL, NoSQL, Hive & Git.
 - 🌱 I’m currently a MSBA student in University of Southern California.
 - 📫 I am so happy to exchange ideas with your guys~ Again, excited to meet you here! Just enjoy this moment! Cheers!
